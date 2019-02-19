@@ -15,7 +15,7 @@ import { elements, renderLoader, clearLoader } from './views/base';
 * - Liker recipes
 */
 const state = {};
-window.state = state;
+
 
 
 /* Search controller */
